@@ -40,7 +40,7 @@
 <td class="column-1">退款</td><td class="column-2">30天退款保证</td>
 </tr>
 <tr class="row-7 odd">
-<td class="column-1">官网</td><td class="column-2"><a href="/go/express" target="_blank" rel="noopener">ExpressVPN.com</a></td>
+<td class="column-1">官网</td><td class="column-2"><a href="https://cntizi1.com?gitfqmm_vpn" target="_blank" rel="noopener">ExpressVPN.com</a></td>
 </tr>
 </tbody>
 </table>
@@ -50,7 +50,7 @@
 <p>但由于网络上有太多所谓的ExpressVPN中文官网，导致ExpressVPN的品牌形象严重受损，因此后面干脆就取消了中文镜像域名。</p>
 <div class="su-note" style="border-color:#e4d5b4;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;"><div class="su-note-inner su-u-clearfix su-u-trim" style="background-color:#feefce;border-color:#ffffff;color:#000000;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;">注：由于政策原因，支付宝已被取消，请通过PayPal、银联(手机端需要安装云闪付)购买。</div></div>
 <p>因此在Google搜出来的ExpressVPN中文官网全是山寨钓鱼网站，<strong style="background: linear-gradient(transparent 60%, #fedee7 60%);padding: 0 1px 2px;">安全起见请通过本站提供的官网进入</strong>。不过购买ExpressVPN本身很简单，是否有中文其实并不影响，如果你是在电脑端访问，还可以在页面点击右键直接翻译成中文。</p>
-<div class="wp-block-button aligncenter"><a class="wp-block-button__link has-vivid-red-background-color has-background" href="/go/express" target="_blank" rel="noopener nofollow">访问ExpressVPN官网</a></div>
+<div class="wp-block-button aligncenter"><a class="wp-block-button__link has-vivid-red-background-color has-background" href="https://cntizi1.com?gitfqmm_vpn" target="_blank" rel="noopener nofollow">访问ExpressVPN官网</a></div>
 <hr>
 <h2 class="wp-block-heading"><span id="ExpressVPN-2">ExpressVPN中国还能用吗？</span></h2>
 <p>当然可以。Lightway协议不是盖的，安全加密都不用说了，已经通过了Cure53 和PWC的审查。伪装用户流量才是在中国稳定使用的重点，这样能有效地绕过防火长城检测。总来说ExpressVPN是为数不多的能在中国使用的VPN，并且在<a href="/best-vpn-china/">中国VPN推荐</a>中名列前茅。</p>
@@ -81,7 +81,7 @@
 <p>追求速度，经常看视频或下载文件，需要通过支付宝购买，对数据安全性较高，推荐选择ExpressVPN。</p>
 <p>对价格比较敏感，对速度要求不高，更喜欢代理翻墙软件而不是VPN，英文不太好需要全中文，需要中国大陆IP翻墙回国看视频，有PayPal、银联等支付账户，推荐选择Panda VPN。</p>
 <div class="wp-block-buttons is-horizontal is-content-justification-center is-layout-flex wp-container-1">
-<div class="wp-block-button"><a class="wp-block-button__link has-vivid-red-background-color has-background" href="/go/express" target="_blank" rel="noreferrer noopener nofollow">访问ExressVPN官网</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link has-vivid-red-background-color has-background" href="https://cntizi1.com?gitfqmm_vpn" target="_blank" rel="noreferrer noopener nofollow">访问ExressVPN官网</a></div>
 </div>
 <p><strong>ExpressVPN</strong></p>
 <div class="green-bar-back"><ul><li>不限带宽和流量，最高支持4K画质</li><li>LightWay私有翻墙协议，稳定性高，性能好</li><li>AES-256高级加密，TrustedServer模式更安全</li><li>支持超过23种设备</li><li>包年套餐价格$6.67/月</li></ul></div>
@@ -107,7 +107,7 @@
 <div class="product-coupon">
 <p style="font-weight: 600">ExpressVPN最新优惠</p>
 <p>限时优惠，买一年送3个月</p>
-<div class="wp-block-button aligncenter"><a class="wp-block-button__link has-vivid-red-background-color has-background" href="/go/express" target="_blank" rel="noopener nofollow" style="margin: 10px auto">获得赠送3个月的ExpressVPN优惠 &nbsp;<i class="fa fa-caret-right"></i></a></div>
+<div class="wp-block-button aligncenter"><a class="wp-block-button__link has-vivid-red-background-color has-background" href="https://cntizi1.com?gitfqmm_vpn" target="_blank" rel="noopener nofollow" style="margin: 10px auto">获得赠送3个月的ExpressVPN优惠 &nbsp;<i class="fa fa-caret-right"></i></a></div>
 <p>（优惠将通过链接自动抵扣）</p>
 </div>
 <hr>
@@ -199,7 +199,7 @@
 <div class="product-coupon">
 <p style="font-weight: 600">ExpressVPN最新优惠</p>
 <p>限时优惠，买一年送3个月</p>
-<div class="wp-block-button aligncenter"><a class="wp-block-button__link has-vivid-red-background-color has-background" href="/go/express" target="_blank" rel="noopener nofollow" style="margin: 10px auto">获得赠送3个月的ExpressVPN优惠 &nbsp;<i class="fa fa-caret-right"></i></a></div>
+<div class="wp-block-button aligncenter"><a class="wp-block-button__link has-vivid-red-background-color has-background" href="https://cntizi1.com?gitfqmm_vpn" target="_blank" rel="noopener nofollow" style="margin: 10px auto">获得赠送3个月的ExpressVPN优惠 &nbsp;<i class="fa fa-caret-right"></i></a></div>
 <p>（优惠将通过链接自动抵扣）</p>
 </div>
 </div>
